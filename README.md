@@ -1,3 +1,5 @@
+### [DEPRECATED] - a new version is in the making, to be published.
+
 # FydeOS
 FydeOS is a Lua based Operating system built for Scrap Computers mod in Scrap Mechanic.
 
